@@ -3,6 +3,7 @@
 Module of canUnlockAll
 """
 
+
 def canUnlockAll(boxes):
     """ validate if all the boxes can be opened
     """
